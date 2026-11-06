@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:8B5CF6&height=200&section=header&text=ASHWIN%20MV&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%7C%20CYBERSECURITY%20%7C%20FULL%20STACK%20DEVELOPER&descSize=15&descAlignY=60&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:8B5CF6&height=200&section=header&text=ASHWIN%20MV&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%7C%20CYBERSECURITY%20%7C%20&descSize=15&descAlignY=60&animation=twinkling" width="100%"/>
 
 <img src="https://github.com/Ashwinmv123.png" width="145" style="border-radius:50%;" alt="Ashwin MV GitHub Avatar"/>
 
