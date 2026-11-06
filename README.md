@@ -1,223 +1,280 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Ashwin+MV&fontSize=40&fontColor=fff&fontAlignY=38&desc=Computer+Science+Undergraduate+%7C+AI+%26+Cybersecurity+%7C+Full-Stack+Development&descAlignY=60&descSize=15" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080C1F,45:172554,100:312E81&height=8"/>
+
+<br/>
+
+# ✦ ASHWIN MV
+
+### ENGINEERING THE FUTURE WITH AI & CODE
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;AI+%26+Cybersecurity+Enthusiast;Full+Stack+Developer;Building+Intelligent+Digital+Experiences" alt="Typing animation"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:7C3AED,100:06B6D4&height=2" width="80%"/>
+
+<br/>
 
 <a href="https://github.com/Ashwinmv123">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1500&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+secure%2C+explainable+software;AI+%26+Machine+Learning+%7C+Cybersecurity+%7C+Web+%26+Mobile;Open+to+entry-level+roles+and+6-month+internships" alt="Typing SVG" />
+<img src="https://github.com/Ashwinmv123.png" width="130" alt="Ashwin MV"/>
 </a>
 
 <br/><br/>
 
-<a href="mailto:ashwinmv67@gmail.com"><img src="https://img.shields.io/badge/Email-ashwinmv67@gmail.com-70a5fd?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/ashwin-mv112"><img src="https://img.shields.io/badge/LinkedIn-ashwin--mv112-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<img src="https://komarev.com/ghpvc/?username=Ashwinmv123&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile views"/>
+<a href="https://github.com/Ashwinmv123"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-111827?style=for-the-badge&logo=github"/></a>
+<a href="https://linkedin.com/in/ashwin-mv112"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:ashwinmv67@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-7C3AED?style=for-the-badge&logo=gmail"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ashwinmv123&style=flat-square&color=6366F1&label=VISITORS"/>
 
 </div>
 
 ---
 
-## About
+## 01. About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="230" src="https://github.com/Ashwinmv123.png" alt="Profile"/>
 
-```python
-class Ashwin:
-    name      = "Ashwin MV"
-    location  = "Thrissur, Kerala, India"
-    degree    = "B.Tech CSE, Nirmala College of Engineering (2023 - Present)"
-    languages = ["English", "Hindi", "Malayalam"]
+Hey! I'm **Ashwin MV**, a Computer Science Engineering student from Kerala, India.
 
-    stack = ["Python", "JavaScript", "Node.js", "React",
-             "Express", "Tailwind CSS", "Flutter", "MySQL"]
+I love transforming ideas into intelligent digital products through AI, cybersecurity and software development.
 
-    focus = ["AI / ML", "Cybersecurity", "Digital Forensics"]
+My interests include:
 
-    currentlyLearning = ["Generative AI", "AI Agent Pipelines", "Robotics"]
+- Artificial Intelligence & Machine Learning
+- Cybersecurity & Network Security
+- Full-Stack Web Development
+- AI Agents & Automation
+- Digital Forensics
 
-    lookingFor = "Entry-level role or 6-month internship"
-
-    def motto(self):
-        return "Build it safe. Build it explainable."
+```javascript
+const ashwin = {
+  name: "Ashwin MV",
+  location: "Kerala, India",
+  education: "B.Tech CSE",
+  interests: ["AI", "Cybersecurity", "Development"],
+  mindset: "Always building something new",
+  goal: "Create meaningful technology"
+};
 ```
 
 <br clear="right"/>
 
-Computer Science undergraduate with a foundation in AI, Machine Learning, cybersecurity and web/mobile development. Three internships and hands-on projects in Python, JavaScript and React. Open to relocation and to global, cross-sectoral opportunities.
-
 ---
 
-## Technical Skills
+## 02. My Technology Universe
 
 <div align="center">
 
-**Languages & Web**<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+**PROGRAMMING**
 
-**Frameworks & Libraries**<br/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,js,php,dart,html,css&theme=dark" alt="Programming"/>
 
-**Cloud & Security**<br/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/IBM_Cloud-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white"/>
-
-**Databases**<br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-
-**AI & Tools**<br/>
-<img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/IBM_Bob-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-
-</div>
-
----
-
-## GitHub Overview
-
-<div align="center">
-  <a href="https://github.com/Ashwinmv123">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashwinmv123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/Ashwinmv123">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinmv123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
-  </a>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Ashwinmv123&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="Streak Stats"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwinmv123&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashwinmv123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
-</div>
-
----
-
-## Experience
-
-<details open>
-<summary><b>Web Development using React Intern</b> | Figmark Infotek Pvt Ltd | 15 Jun 2026 – 30 Jun 2026 | Edappally, Ernakulam</summary>
 <br/>
 
-> `React` `JavaScript` `HTML` `CSS`
+**FRONTEND & BACKEND**
 
-- Built and improved web application interfaces using React in practical, hands-on projects
-- Applied HTML, CSS and JavaScript fundamentals to responsive UI components
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,tailwind,vite&theme=dark" alt="Development"/>
 
-</details>
-
-<details>
-<summary><b>Flutter Intern</b> | PACE LAB | 26 Jun – 9 Jul 2025 | Kochi</summary>
 <br/>
 
-> `Flutter` `Dart`
+**DATABASE & CLOUD**
 
-- Completed a two-week internship building cross-platform mobile app interfaces and features
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,aws,ibm,vercel&theme=dark" alt="Cloud and databases"/>
 
-</details>
-
-<details>
-<summary><b>PHP & MySQL Intern</b> | SaNDS Lab | 8 Jul – 12 Jul 2024 | Trichur Infopark, Koratty</summary>
 <br/>
 
-> `PHP` `MySQL`
+**TOOLS**
 
-- Gained practical exposure to server-side web development and database-driven applications
-
-</details>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|:--|:--|:--|
-| **[Sage AI](https://github.com/Ashwinmv123/sage-ai)**<br/>Digital Safety & Harassment Response Platform | `React` `Vite` `Tailwind` `Node.js` `Express` `SQLite` | Full-stack platform helping students and vulnerable users respond to cyberstalking, phishing, extortion and impersonation. Explainable threat-analysis engine with severity scoring; tamper-evident evidence vault (SHA-256 + forensic metadata); incident tracking; printable cyber-crime reports for police; quick-exit disguise mode; REST API with authentication. |
-| **[Flag Buster](https://github.com/Ashwinmv123/FLAG-CLEANUP-AGENT)**<br/>Dead Code Cleanup Agent | `Node.js` `IBM Bob` | Multi-agent pipeline (scanner, analyzer, reporter, cleaner) that finds stale feature flags and unreachable code and proposes safe removals. JSON handoff contracts with schema validation, dry-run mode, failure handling and unit tests. Live demo hosted on Vercel. |
-| **SecureShield AI**<br/>Hybrid Security Dashboard | `Python` `ML` `Nmap` `VirusTotal API` | Desktop antivirus detecting malware via machine learning and the VirusTotal API, with a live Nmap scanner that flags vulnerable services against known CVEs. |
-
-</div>
-
-```mermaid
-flowchart LR
-    A[Scanner] -->|JSON contract| B[Analyzer]
-    B -->|JSON contract| C[Reporter]
-    C -->|JSON contract| D[Cleaner]
-    D -->|dry-run first| E[(Safe removals)]
-    style A fill:#0d1117,stroke:#70a5fd,color:#c9d1d9
-    style B fill:#0d1117,stroke:#70a5fd,color:#c9d1d9
-    style C fill:#0d1117,stroke:#70a5fd,color:#c9d1d9
-    style D fill:#0d1117,stroke:#70a5fd,color:#c9d1d9
-    style E fill:#0d1117,stroke:#bf91f3,color:#c9d1d9
-```
-
-<div align="center"><sub>Flag Buster agent pipeline</sub></div>
-
----
-
-## Hackathons & Certifications
-
-<div align="center">
-
-| Type | Title | Details |
-|:--|:--|:--|
-| Hackathon | **IBM Bob 2.0 Hackathon** (LabLab.ai / NativelyAI) | Certificate of Completion for outstanding performance, 25–27 Sep 2026. Submitted a solution based on Anthropic Claude and Antigravity |
-| Hackathon | **Hack2Pitch, FISAT** | Certificate of Achievement for innovation, creativity and collaborative problem-solving |
-| Certification | **Introduction to Cybersecurity** | Cisco Networking Academy, Oct 2026 |
-| Certification | **Cyber First Responder Awareness Programme & Cyber Safety Pledge** | Kerala Police, Cyber Division |
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools"/>
 
 </div>
 
 ---
 
-## Education
+## 03. Selected Work
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|:--|:--|:-:|:-:|
-| B.Tech, Computer Science & Engineering | Nirmala College of Engineering, Chalakudy, Kerala | 2023 – Present | In progress |
-| Higher Secondary (Class XII) | St George's HSS, Pariyaram, Kerala | 2023 | 80% |
-| Secondary School (Class X) | St George's HSS, Pariyaram, Kerala | 2021 | 9 A+ and 1 A |
+### ✦ 01 — SAGE AI
+
+<img src="https://img.shields.io/badge/PROJECT-DIGITAL_SAFETY-2563EB?style=for-the-badge"/>
+
+**A smarter approach to digital safety.**
+
+A platform designed to support students and vulnerable users facing cyberstalking, phishing, extortion and impersonation.
+
+| Feature | Implementation |
+|---|---|
+| Threat analysis | Explainable severity scoring |
+| Evidence protection | SHA-256 hashing |
+| Incident management | Incident tracking |
+| Reporting | Cyber-crime report generation |
+| Privacy | Quick-exit disguise mode |
+
+`React` `Vite` `Tailwind` `Node.js` `Express` `SQLite`
+
+[VIEW PROJECT →](https://github.com/Ashwinmv123/sage-ai)
+
+---
+
+### ✦ 02 — FLAG BUSTER
+
+<img src="https://img.shields.io/badge/PROJECT-AI_AUTOMATION-7C3AED?style=for-the-badge"/>
+
+**Making codebases cleaner with AI.**
+
+A multi-agent cleanup system that detects stale feature flags and unreachable code and proposes safe removals.
+
+- Scanner Agent
+- Analyzer Agent
+- Reporter Agent
+- Cleaner Agent
+- JSON contracts and schema validation
+- Safe dry-run and unit tests
+
+`Node.js` `IBM Bob` `AI Agents`
+
+[VIEW PROJECT →](https://github.com/Ashwinmv123/FLAG-CLEANUP-AGENT)
+
+---
+
+### ✦ 03 — SECURESHIELD AI
+
+<img src="https://img.shields.io/badge/PROJECT-INTELLIGENT_SECURITY-0891B2?style=for-the-badge"/>
+
+**Bringing intelligent threat detection together.**
+
+Python desktop antivirus application combining machine learning and VirusTotal API, with Nmap-based network scanning.
+
+- Machine learning malware detection
+- VirusTotal integration
+- Live network scanning
+- Vulnerable service identification against known CVEs
+
+`Python` `Machine Learning` `Nmap` `VirusTotal API`
 
 </div>
 
-## Currently Learning
+---
 
-```
-Generative AI   -> LLM applications, AI agent pipelines
-Robotics        -> Fundamentals, sensors, automation
-Cybersecurity   -> Network security, digital forensics
-Cloud           -> AWS, IBM Cloud
-```
-
-## Contact
+## 04. GitHub Insights
 
 <div align="center">
 
-Seeking an entry-level role or a 6-month internship. Open to relocation and global opportunities.
+<a href="https://github.com/Ashwinmv123">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Ashwinmv123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080C1F&title_color=60A5FA&icon_color=A78BFA&text_color=E2E8F0&include_all_commits=true&count_private=true"/>
+</a>
 
-<a href="mailto:ashwinmv67@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-70a5fd?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/ashwin-mv112"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Ashwinmv123">
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinmv123&layout=compact&theme=tokyonight&hide_border=true&bg_color=080C1F&title_color=60A5FA&text_color=E2E8F0&langs_count=8"/>
+</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=Ashwinmv123&theme=tokyonight-duo&hide_border=true&background=080C1F&ring=60A5FA&fire=A78BFA&currStreakLabel=60A5FA&sideLabels=38BDAE&dates=94A3B8" width="90%" alt="GitHub streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwinmv123&bg_color=080C1F&color=60A5FA&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity"/>
 
 </div>
+
+---
+
+## 05. Achievements & Recognition
+
+<div align="center">
+
+| Recognition | Details |
+|:---|:---|
+| 🤖 IBM Bob 2.0 Hackathon | Certificate of Completion · September 2026 |
+| 🚀 Hack2Pitch | FISAT · Certificate of Achievement |
+| 🔐 Cisco Networking Academy | Introduction to Cybersecurity |
+| 🛡️ Kerala Police | Cyber First Responder Awareness |
+| 📜 Kerala Police | Cyber Safety Pledge |
+
+</div>
+
+---
+
+## 06. Experience Timeline
+
+<div align="center">
+
+| Year | Organization | Role |
+|:---:|:---|:---|
+| 2026 | Figmark Infotek | React Web Development Intern |
+| 2025 | PACE LAB | Flutter Intern |
+| 2024 | SaNDS Lab | PHP & MySQL Intern |
+
+</div>
+
+---
+
+## 07. Education
+
+<div align="center">
+
+**B.Tech — Computer Science and Engineering**
+
+Nirmala College of Engineering, Chalakudy
+
+2023 – Present
+
+| Qualification | Score |
+|:---|:---:|
+| Class XII | 80% |
+| Class X | 9 A+ and 1 A |
+
+St George's HSS, Pariyaram
+
+</div>
+
+---
+
+## 08. Currently Exploring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GENERATIVE_AI-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_AGENTS-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/CYBERSECURITY-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/ROBOTICS-9333EA?style=flat-square"/>
+
+</div>
+
+---
+
+## 09. Let's Build Something Together
+
+<div align="center">
+
+I'm open to connecting with developers, AI innovators, cybersecurity professionals and people who love building meaningful products.
+
+<br/>
+
+<a href="mailto:ashwinmv67@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL_ME-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/ashwin-mv112">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**Designing. Developing. Defending.**
+
+*The future is built one commit at a time.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080C1F,50:172554,100:312E81&height=130&section=footer&animation=twinkling" width="100%" alt="Footer"/>
+
+</div>
+
+<!-- END -->
+
