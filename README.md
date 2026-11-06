@@ -1,380 +1,256 @@
- <div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:450A0A,100:DC2626&height=220&section=header&text=ASHWIN%20MV&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=ENGINEERING%20THE%20FUTURE%20WITH%20AI%20%26%20CODE&descSize=15&descAlignY=58&animation=twinkling"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=EF4444&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Cybersecurity+%26+AI+Enthusiast;Full+Stack+Developer;Building+Intelligent+Digital+Experiences;Think+%7C+Build+%7C+Innovate" alt="Typing animation"/>
-
-<br/><br/>
-
-<img src="https://github.com/Ashwinmv123.png" width="145" alt="Ashwin MV"/>
-
-<br/><br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7B2FF7,100:FF00E5&height=270&section=header&text=A%20S%20H%20W%20I%20N%20%20%20M%20V&fontSize=56&fontColor=ffffff&stroke=00F0FF&strokeWidth=2&fontAlignY=36&animation=twinkling&desc=%E2%97%A2%20NEURAL%20INTERFACE%20ONLINE%20%E2%97%A3%20AI%20%C3%97%20CYBERSECURITY%20%C3%97%20FULL-STACK&descAlignY=58&descSize=17&descColor=00F0FF" alt="Ashwin MV"/>
 
 <a href="https://github.com/Ashwinmv123">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=900&height=50&lines=INITIALIZING+PROFILE...;IDENTITY+CONFIRMED+%3A+ASHWIN+MV;CLASS+%3A+SECURITY+%26+AI+ENGINEER+(IN+TRAINING);STACK+%3A+REACT+%C2%B7+NODE+%C2%B7+PYTHON+%C2%B7+FLUTTER;STATUS+%3A+AVAILABLE+FOR+NEW+MISSIONS" alt="typing"/>
 </a>
-<a href="https://linkedin.com/in/ashwin-mv112">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:ashwinmv67@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-991B1B?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Ashwinmv123&style=for-the-badge&color=991B1B&label=PROFILE+VISITORS"/>
 
 <br/>
 
-<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7F1D1D,50:DC2626,100:450A0A&height=3"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F0FF?style=for-the-badge&labelColor=0A0F1F" alt="online"/>
+<img src="https://img.shields.io/badge/LOCATION-THRISSUR%2C_INDIA-7B2FF7?style=for-the-badge&labelColor=0A0F1F" alt="location"/>
+<img src="https://img.shields.io/badge/RELOCATION-ENABLED-FF00E5?style=for-the-badge&labelColor=0A0F1F" alt="relocation"/>
 
-**AI ENGINEERING • CYBERSECURITY • SOFTWARE DEVELOPMENT**
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/ashwin-mv112"><img src="https://img.shields.io/badge/LINKEDIN-ESTABLISH_LINK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0F1F" alt="LinkedIn"/></a>
+<a href="mailto:ashwinmv67@gmail.com"><img src="https://img.shields.io/badge/EMAIL-TRANSMIT-FF00E5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1F" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=Ashwinmv123&style=for-the-badge&color=00F0FF&label=SCANS" alt="views"/>
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7B2FF7,100:FF00E5&height=3&section=header" alt=""/>
 
-<h2 align="center">01 — ABOUT ME</h2>
+## ◢ BOOT SEQUENCE
 
-<img align="right" width="190" src="https://github.com/Ashwinmv123.png" alt="Ashwin's profile"/>
+```bash
+$ ./boot_ashwin.sh
 
-Hello! I'm **Ashwin MV**, a Computer Science Engineering undergraduate from Kerala, India.
+[ OK ] Loading identity .............. Ashwin MV
+[ OK ] Locating base ................. Thrissur, Kerala, India 🇮🇳
+[ OK ] Mounting education ............ B.Tech CSE · Nirmala College of Engineering (2023 - Present)
+[ OK ] Loading modules ............... AI/ML · Cybersecurity · Web · Mobile
+[ OK ] Syncing experience ............ 3 internships · 2 hackathons · 2 certifications
+[ OK ] Language packs ................ English · Hindi · Malayalam
+[ .. ] Training in background ........ Generative AI · Robotics
+[ OK ] Relocation module ............. ENABLED
 
-I'm passionate about building intelligent applications, exploring cybersecurity, experimenting with AI and developing software that solves real-world problems.
-
-- 🔐 Cybersecurity & Network Security
-- 🤖 Artificial Intelligence & Machine Learning
-- 💻 Full-Stack Web Development
-- 📱 Cross-platform Mobile Development
-- 🧠 AI Agents & Automation
-- 🚀 Hackathons and innovative projects
-
-```javascript
-const ashwin = {
-    name: "Ashwin MV",
-    location: "Thrissur, Kerala, India",
-    education: "B.Tech CSE",
-
-    interests: [
-        "Artificial Intelligence",
-        "Cybersecurity",
-        "Machine Learning",
-        "Full Stack Development"
-    ],
-
-    currentlyExploring: [
-        "Generative AI",
-        "AI Agent Pipelines",
-        "Robotics",
-        "Advanced Cybersecurity"
-    ],
-
-    mindset: "Continuous Learning",
-    motto: "Build. Innovate. Secure."
-};
-
-console.log(ashwin.motto);
+>> ALL SYSTEMS NOMINAL. READY FOR DEPLOYMENT.
 ```
 
-<br clear="right"/>
-
----
-
-<h2 align="center">02 — TECHNOLOGY STACK</h2>
-
 <div align="center">
 
-### PROGRAMMING LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=python,js,php,dart,html,css&theme=dark" alt="Programming languages"/>
-
-### FRAMEWORKS & LIBRARIES
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,tailwind,vite&theme=dark" alt="Frameworks"/>
-
-### DATABASES & CLOUD
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,aws,ibm,vercel&theme=dark" alt="Cloud and database"/>
-
-### DEVELOPMENT TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools"/>
+| 🛰️ MISSIONS | 🧬 INTERNSHIPS | ⚔️ HACKATHONS | 🛡️ CERTIFICATIONS |
+|:-:|:-:|:-:|:-:|
+| **3** projects | **3** roles | **2** events | **2** programs |
 
 </div>
 
-**Security & AI Technologies**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7B2FF7,100:FF00E5&height=3&section=header" alt=""/>
+
+## ◢ NEURAL NETWORK · SKILLS
+
+```mermaid
+mindmap
+  root((ASHWIN<br/>MV))
+    FRONT-END
+      React
+      Vite
+      Tailwind CSS
+      HTML / CSS
+    BACK-END
+      Node.js
+      Express
+      PHP
+      REST APIs
+    MOBILE
+      Flutter
+      Dart
+    AI CORE
+      Machine Learning
+      Scikit-learn
+      Generative AI
+      Agent pipelines
+    CYBER-DEFENSE
+      Network Security
+      Digital Forensics
+      Nmap
+      VirusTotal API
+      SHA-256
+    DATA & CLOUD
+      MySQL
+      SQLite
+      AWS
+      IBM Cloud
+```
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Nmap-Network_Security-991B1B?style=flat-square&logo=nmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/VirusTotal-Threat_Analysis-DC2626?style=flat-square&logo=virustotal&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-Machine_Learning-F59E0B?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/IBM_Bob-AI_Agents-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-Generative_AI-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/SHA--256-Data_Integrity-7F1D1D?style=flat-square"/>
-
-</div>
-
----
-
-<h2 align="center">03 — FEATURED PROJECTS</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-SAGE_AI-DC2626?style=for-the-badge"/>
-
-### 🛡️ Sage AI
-**Digital Safety & Harassment Response Platform**
-
-A full-stack platform designed to help students and vulnerable users respond to cyberstalking, phishing, extortion and impersonation.
-
-| Core Feature | Description |
-|---|---|
-| Threat Analysis | Explainable analysis with severity scoring |
-| Evidence Vault | SHA-256 tamper-evident evidence storage |
-| Incident Tracking | Manage and track reported incidents |
-| Report Generation | Printable cyber-crime reports |
-| Privacy | Quick-exit disguise mode |
-| API | Authentication and REST API |
-
-**Technology:** React · Vite · Tailwind CSS · Node.js · Express · SQLite
-
-<a href="https://github.com/Ashwinmv123/sage-ai"><img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-991B1B?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://skillicons.dev/icons?i=py,js,nodejs,react,express,tailwind,vite,html,css,php,flutter,dart,mysql,sqlite,aws,git,github,vercel,linux,vscode&perline=10&theme=dark" alt="skills"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/02-FLAG_BUSTER-DC2626?style=for-the-badge"/>
-
-### 🤖 Flag Buster
-**AI-Powered Dead Code Cleanup Agent**
-
-A multi-agent pipeline designed to detect stale feature flags and unreachable code and propose safe removals.
-
-- Scanner Agent
-- Analyzer Agent
-- Reporter Agent
-- Cleaner Agent
-- JSON handoff contracts and schema validation
-- Safe dry-run and failure handling
-- Unit tests
-
-**Technology:** Node.js · IBM Bob · AI Agent Pipelines
-
-<a href="https://github.com/Ashwinmv123/FLAG-CLEANUP-AGENT"><img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-991B1B?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/03-SECURESHIELD_AI-DC2626?style=for-the-badge"/>
-
-### 🔐 SecureShield AI
-**Hybrid Security & Malware Detection Application**
-
-A Python desktop antivirus application combining machine learning and VirusTotal API for malware detection.
-
-- ML-based malware detection
-- VirusTotal API integration
-- Live Nmap network scanning
-- Vulnerable service identification against known CVEs
-
-**Technology:** Python · Machine Learning · Nmap · VirusTotal API
+<img src="https://img.shields.io/badge/AI-Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white&labelColor=0A0F1F" alt=""/>
+<img src="https://img.shields.io/badge/AI-IBM_Bob-1261FE?style=flat-square&logo=ibm&logoColor=white&labelColor=0A0F1F" alt=""/>
+<img src="https://img.shields.io/badge/ML-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=0A0F1F" alt=""/>
+<img src="https://img.shields.io/badge/SEC-VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white&labelColor=0A0F1F" alt=""/>
+<img src="https://img.shields.io/badge/SEC-Nmap-00F0FF?style=flat-square&labelColor=0A0F1F" alt=""/>
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7B2FF7,100:FF00E5&height=3&section=header" alt=""/>
 
-<h2 align="center">04 — GITHUB ANALYTICS</h2>
+## ◢ ACTIVE MISSIONS · PROJECTS
 
 <div align="center">
-
-<a href="https://github.com/Ashwinmv123">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ashwinmv123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D0D0D&title_color=EF4444&icon_color=DC2626&text_color=E5E5E5&border_radius=10" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/Ashwinmv123">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinmv123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=EF4444&text_color=E5E5E5&langs_count=8&border_radius=10" alt="Top languages"/>
-</a>
-
-<br/><br/>
-
-<img width="85%" src="https://streak-stats.demolab.com?user=Ashwinmv123&theme=tokyonight-duo&hide_border=true&background=0D0D0D&ring=EF4444&fire=DC2626&currStreakLabel=EF4444&sideLabels=F87171&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=450A0A&border_radius=10" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwinmv123&theme=tokyo-night&bg_color=0D0D0D&color=EF4444&line=DC2626&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
-
+  <a href="https://github.com/Ashwinmv123/sage-ai"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashwinmv123&repo=sage-ai&theme=synthwave&bg_color=0A0F1F&hide_border=true&border_radius=12" alt="sage-ai"/></a>
+  <a href="https://github.com/Ashwinmv123/FLAG-CLEANUP-AGENT"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashwinmv123&repo=FLAG-CLEANUP-AGENT&theme=synthwave&bg_color=0A0F1F&hide_border=true&border_radius=12" alt="FLAG-CLEANUP-AGENT"/></a>
 </div>
-
----
-
-<h2 align="center">05 — TROPHY WALL</h2>
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Ashwinmv123&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub trophies"/>
-
-</div>
-
----
-
-<h2 align="center">06 — PROFESSIONAL EXPERIENCE</h2>
-
-<details>
-<summary><b>🔴 FIGMARK INFOTEK PVT LTD — React Web Development Intern</b></summary>
-
-**15 June 2026 – 30 June 2026**
-
-<text>📍 Edappally, Ernakulam</text>
-
-`HTML` `CSS` `JavaScript` `React`
-
-- Built and improved web application interfaces.
-- Applied frontend development technologies in practical projects.
-- Gained hands-on experience with React-based development.
-
-</details>
-
-<details>
-<summary><b>🔴 PACE LAB — Flutter Intern</b></summary>
-
-**26 June 2025 – 9 July 2025**
-
-📍 Kochi
-
-`Flutter` `Dart`
-
-- Completed a two-week internship.
-- Built cross-platform mobile application interfaces and features.
-- Gained practical exposure to Flutter and Dart.
-
-</details>
-
-<details>
-<summary><b>🔴 SaNDS LAB — PHP & MySQL Intern</b></summary>
-
-**8 July 2024 – 12 July 2024**
-
-📍 Trichur Infopark, Koratty
-
-`PHP` `MySQL`
-
-- Gained practical exposure to server-side web development.
-- Explored database-driven application development.
-- Developed foundational backend development skills.
-
-</details>
-
----
-
-<h2 align="center">07 — ACHIEVEMENTS & CERTIFICATIONS</h2>
-
-<div align="center">
-
-| Recognition | Achievement |
-|:---|:---|
-| 🤖 IBM Bob 2.0 Hackathon | Certificate of Completion · 25–27 September 2026 |
-| 🚀 Hack2Pitch | FISAT · Certificate of Achievement |
-| 🔐 Cisco Networking Academy | Introduction to Cybersecurity · October 2026 |
-| 🛡️ Kerala Police | Cyber First Responder Awareness Programme |
-| 📜 Kerala Police | Cyber Safety Pledge |
-
-</div>
-
----
-
-<h2 align="center">08 — EDUCATION</h2>
-
-<div align="center">
-
-### 🎓 B.Tech — Computer Science and Engineering
-
-**Nirmala College of Engineering, Chalakudy, Kerala**
-
-2023 – Present
 
 <br/>
 
-| Qualification | Institution | Year | Score |
-|:---|:---|:---:|:---:|
-| Higher Secondary | St George's HSS | 2023 | 80% |
-| Secondary School | St George's HSS | 2021 | 9 A+ and 1 A |
+<details open>
+<summary><b>🛡️ MISSION 01 · SAGE AI</b> — Digital Safety & Harassment Response Platform</summary>
+<br/>
+
+> `React` `Vite` `Tailwind CSS` `Node.js` `Express` `SQLite`
+
+**Objective:** help students and vulnerable users respond to cyberstalking, phishing, extortion and impersonation.
+
+| MODULE | CAPABILITY |
+|:--|:--|
+| 🔎 Threat Engine | Explainable threat analysis with severity scoring |
+| 🔐 Evidence Vault | Tamper-evident storage using SHA-256 hashing and forensic metadata |
+| 📄 Report Generator | Printable cyber-crime report for police / cyber cells, plus incident tracking |
+| 🕶️ Stealth Mode | Quick-exit disguise mode |
+| 🗝️ Access Control | REST API with user authentication |
+
+</details>
+
+<details open>
+<summary><b>🧹 MISSION 02 · FLAG BUSTER</b> — Dead Code Cleanup Agent</summary>
+<br/>
+
+> `Node.js` `IBM Bob` `Vercel`
+
+```mermaid
+flowchart LR
+    S([🔍 SCANNER]) -->|JSON| A([🧠 ANALYZER]) -->|JSON| R([📊 REPORTER]) -->|JSON| C([🧹 CLEANER])
+    style S fill:#0A0F1F,stroke:#00F0FF,stroke-width:2px,color:#00F0FF
+    style A fill:#0A0F1F,stroke:#7B2FF7,stroke-width:2px,color:#bf91f3
+    style R fill:#0A0F1F,stroke:#FF00E5,stroke-width:2px,color:#FF00E5
+    style C fill:#0A0F1F,stroke:#00F0FF,stroke-width:2px,color:#00F0FF
+```
+
+Multi-agent pipeline that finds stale feature flags and unreachable code and proposes safe removals, with schema-validated JSON handoffs, a safe dry-run mode, failure handling, unit tests and a live demo on Vercel.
+
+</details>
+
+<details>
+<summary><b>🦠 MISSION 03 · SECURESHIELD AI</b> — Hybrid Security Dashboard</summary>
+<br/>
+
+> `Python` `Machine Learning` `Nmap` `VirusTotal API`
+
+- Desktop antivirus that detects malware using machine learning and the VirusTotal API
+- Live Nmap network scanner that flags vulnerable system services against known CVEs
+
+</details>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7B2FF7,100:FF00E5&height=3&section=header" alt=""/>
+
+## ◢ MISSION LOG · EXPERIENCE
+
+```mermaid
+timeline
+    title DEPLOYMENT HISTORY
+    2024 : PHP & MySQL Intern : SaNDS Lab, Koratty
+    2025 : Flutter Intern : PACE LAB, Kochi
+    2026 : React Intern : Figmark Infotek, Edappally
+```
+
+<details>
+<summary><b>📂 OPEN FULL LOGS</b></summary>
+<br/>
+
+| ROLE | ORGANISATION | WINDOW | BASE | OUTCOME |
+|:--|:--|:--|:--|:--|
+| Web Development using React Intern | Figmark Infotek Pvt Ltd | 15–30 Jun 2026 | Edappally, Ernakulam | Built and improved web interfaces with HTML, CSS, JavaScript and React |
+| Flutter Intern | PACE LAB | 26 Jun – 9 Jul 2025 | Kochi | Built cross-platform mobile interfaces and features with Flutter and Dart |
+| PHP & MySQL Intern | SaNDS Lab | 8–12 Jul 2024 | Trichur Infopark, Koratty | Server-side web development and database-driven apps |
+
+</details>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7B2FF7,100:FF00E5&height=3&section=header" alt=""/>
+
+## ◢ ACCESS GRANTED · ACHIEVEMENTS
+
+<div align="center">
+
+| | CLEARANCE | DETAILS |
+|:-:|:--|:--|
+| 🤖 | **IBM Bob 2.0 Hackathon** | Certificate of Completion for outstanding performance · LabLab.ai / NativelyAI · 25–27 Sep 2026 · built on Anthropic Claude and Antigravity |
+| 💡 | **Hack2Pitch, FISAT** | Certificate of Achievement for innovation, creativity and collaborative problem-solving |
+| 🔐 | **Introduction to Cybersecurity** | Cisco Networking Academy · Oct 2026 |
+| 🚔 | **Cyber First Responder Awareness** | Kerala Police, Cyber Division · Cyber Safety Pledge |
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7B2FF7,100:FF00E5&height=3&section=header" alt=""/>
 
-<h2 align="center">09 — CURRENTLY EXPLORING</h2>
+## ◢ TELEMETRY · GITHUB STATS
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Ashwinmv123&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&bg_color=0A0F1F&border_radius=12" alt="stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinmv123&layout=compact&theme=synthwave&hide_border=true&bg_color=0A0F1F&langs_count=8&border_radius=12" alt="languages"/>
+
+<img src="https://streak-stats.demolab.com?user=Ashwinmv123&theme=synthwave&hide_border=true&background=0A0F1F&ring=00F0FF&fire=FF00E5&currStreakLabel=00F0FF&sideLabels=7B2FF7&border_radius=12" alt="streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwinmv123&theme=react-dark&bg_color=0A0F1F&color=00F0FF&line=FF00E5&point=ffffff&area=true&hide_border=true" alt="activity"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ashwinmv123&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="trophies"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7B2FF7,100:FF00E5&height=3&section=header" alt=""/>
+
+## ◢ TRAINING DATA · EDUCATION
+
+<div align="center">
+
+| DEGREE | INSTITUTION | YEAR | SCORE |
+|:--|:--|:-:|:-:|
+| B.Tech, Computer Science and Engineering | Nirmala College of Engineering, Chalakudy | 2023 – Present | In progress |
+| Higher Secondary (XII) | St George's HSS, Pariyaram | 2023 | 80% |
+| Secondary (X) | St George's HSS, Pariyaram | 2021 | 9 A+ and 1 A |
+
+</div>
+
+## ◢ UPGRADES IN PROGRESS
 
 ```text
-┌────────────────────────────────────────────┐
-│             LEARNING ROADMAP               │
-├────────────────────────────────────────────┤
-│                                            │
-│  🤖 Generative AI                          │
-│     └── AI-powered applications            │
-│     └── AI Agent Pipelines                 │
-│                                            │
-│  🔐 Cybersecurity                          │
-│     └── Network Security                   │
-│     └── Digital Forensics                  │
-│     └── Malware Analysis                   │
-│                                            │
-│  🧠 Machine Learning                       │
-│     └── Intelligent Threat Detection       │
-│     └── Practical ML Applications          │
-│                                            │
-│  🚀 Emerging Technologies                  │
-│     └── Robotics                           │
-│     └── Intelligent Automation             │
-│                                            │
-└────────────────────────────────────────────┘
+[██████████] Full-Stack Web   ▸ React · Node.js · Express          ONLINE
+[██████████] Mobile           ▸ Flutter · Dart                     ONLINE
+[█████████░] Cyber-Defense    ▸ Nmap · Forensics · Threat Analysis ACTIVE
+[████████░░] AI Core          ▸ ML · Generative AI · Agents        ACTIVE
+[████░░░░░░] Robotics         ▸ Fundamentals                       LOADING
 ```
 
----
-
-<h2 align="center">10 — BEYOND THE CODE</h2>
+<sub>Bars are a visual guide to where my current focus is, not a formal rating.</sub>
 
 <div align="center">
-
-| Attribute | Details |
-|:---|:---|
-| 📍 Location | Thrissur, Kerala, India |
-| 🌐 Languages | English, Hindi, Malayalam |
-| 🎯 Interests | AI, Cybersecurity, Robotics, Development |
-| 💡 Mindset | Continuous learning and innovation |
-| 🌍 Opportunities | Open to relocation and global opportunities |
-
-</div>
-
----
-
-<h2 align="center">LET'S CONNECT</h2>
-
-<div align="center">
-
-**Have an idea? Let's build something meaningful together.**
 
 <br/>
 
-<a href="mailto:ashwinmv67@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-ME-991B1B?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/ashwin-mv112">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 <a href="https://github.com/Ashwinmv123">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=3200&pause=1200&color=FF00E5&center=true&vCenter=true&width=800&height=40&lines=TRANSMISSION+OPEN+%E2%80%94+LET'S+BUILD+THE+FUTURE;OPEN+TO+RELOCATION+%C2%B7+GLOBAL+OPPORTUNITIES" alt="closing"/>
 </a>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:450A0A,100:DC2626&height=150&section=footer&animation=twinkling" width="100%" alt="Animated footer"/>
-
-### BUILD. INNOVATE. SECURE.
-
-<sub>© Ashwin MV · Crafted with passion and code.</sub>
+<a href="mailto:ashwinmv67@gmail.com"><img src="https://img.shields.io/badge/ashwinmv67%40gmail.com-00F0FF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0A0F1F" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/ashwin-mv112"><img src="https://img.shields.io/badge/ashwin--mv112-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0F1F" alt="LinkedIn"/></a>
 
 </div>
 
-<!-- END OF ASHWIN MV PROFILE README -->
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:7B2FF7,100:00F0FF&height=130&section=footer&animation=twinkling" alt=""/>
